@@ -1,0 +1,38 @@
+# Build directories
+build/
+bin/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables / Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+TrafficSimulator
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
